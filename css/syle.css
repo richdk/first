@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Oswald|Staatliches&display=swap');
+
+.test{
+	color:#FFFFFF;
+    font-family: 'Oswald', sans-serif;
+}
+.lol{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+.blue{
+	color:red;
+	font-family: 'Oswald', sans-serif;
+	
+	
+
+}
+.text{
+	color:#FFFFFF;
+    font-family: 'Oswald', sans-serif;
+}
+td{ 
+ width: 150px;
+ height: 100px;
+ border: solid 2px black;
+ text-align: center;
+ font-family: 'Oswald', sans-serif;
+ font-size: 33px;
+
+}
+
+.big-font{
+	 font-size: 20px;
+}
+.color{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+th{
+    font-family: 'Oswald', sans-serif;
+	width: 200px;
+    height: 100px;
+    border: solid 4px black;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+	font-size: 25px
+}
+
+p{  
+    font-family: 'Oswald', sans-serif;
+    font-size: 33px;
+	
+}
+
+h2{ 
+     font-family: 'Oswald', sans-serif;
+}
+input{ 
+       font-family: 'Oswald', sans-serif;
+       font-size: 30px;
+       border: solid 2.5px black;
+}
+
+.input{ 
+ color: white;
+ background-color: black;
+}
+.select{
+	 font-family: 'Oswald', sans-serif;
+	 font-size: 50px;
+     width: 200px;
+	 background-color: black;
+	 text-align: center;
+	 color: white;
+	 
+}
+
+.hader{
+	position: fixed;
+	background-color: gray;
+	width: 100%;
+	height: 85px;
+	top: 0;
+	padding: 0 16px;
+	margin-left: -10px;
+	z-index: 10;
+	margin-top: 0px;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-self: flex-start;
+	display: flex;
+	flex-direction: ;
+}	
+
+
+.joker{
+	flex-wrap: wrap;
+	padding: 60px 0px;
+	height: 630px;
+	margin-top: 10px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+	text-decoration: none;
+    background:;
+    
+	
+	
+	
+}
+.joker2{
+	margin-top: 40px;
+	
+	background-color:;
+	display:flex;
+    justify-content: center;
+	align-items: start;
+	flex-direction: row-reverse;
+	align-content: center;
+	
+}
+.new1{ 
+ background-color: red;
+ border: 4px;
+ font-size: 24px;
+	
+}	
+
+     	
+}
+.rick{
+	font-size: 32px;
+	text-align: center;
+}
+.box{ 
+ align-items: center;
+
+}
+.online{
+	flex: px;
+}
+.joker3{
+	justify-content: space-between;
+	
+}
+.joker4{
+	transform: scale(1);
+	flex-shrink: 1;
+	align-self: start;
+}
+.test3{
+	height: 380px;
+	margin-bottom: 10px;
+}
+.test3:hover{
+	font-size: 19px;
+	transition-duration: 400ms;
+}
+.jopa:hover{
+	font-size: 19px;
+	transition-duration: 400ms;
+}
+.zvezda:hover{
+	font-size: 19px;
+	transition-duration: 400ms;
+}
+.morty:hover{
+	font-size: 19px;
+	transition-duration: 400ms;
+}
+.test:hover{
+	font-size: 33px;
+}
+.lol:hover{
+	font-size: 33px;
+}
+.color:hover{
+	font-size: 33px;
+}
+.pobeg:hover{
+	font-size: 19px;
+	transition-duration: 400ms;
+}
+.container{
+	justify-content:space-around;
+	width: 1200px;
+    height:593px;
+	display: flex;
+	flex-direction: row-reverse;
+	margin:1%;
+}
+.container1{
+	width: 1400px;
+    height:742px;
+	display: flex;
+	flex-direction: row-reverse;
+	margin:1%;
+	justify-content:space-around;
+	
+}
+.text1{
+	background-color: gray;
+	color:#FFFFFF;
+    font-family: 'Oswald', sans-serif;
+	width: 640px;
+	height: 800px;
+	font-size: 20px;
+	align-items: center;
+   }
+.text2{
+	width: 640px;
+	height: 780px;
+	background-color: gray;
+	justify-content: space-around;
+	font-family: 'Oswald', sans-serif;
+	
+}
+.text2:hover{
+	background-color:#574a4b;
+	
+}
+.container{
+	width: 1400px;
+    height:742px;
+	display: flex;
+	flex-direction: row-reverse;
+	margin:1%;
+	
+}
+.text3{
+	background-color: gray;
+	color:#FFFFFF;
+    font-family: 'Oswald', sans-serif;
+	width: 690px;
+	height: 700px;
+	font-size: 13px;
+	
+}
+.container3{
+	width: 1400px;
+    height:780px;
+	display: flex;
+	flex-direction: row-reverse;
+	margin:1%;
+	justify-content: space-around;
+	
+	
+}
+a{
+	text-decoration: none;
+}
+iframe{
+	display: block;
+}
+.table1{
+	align-items: center;
+	margin-left: 60px;
+	display:flex;
+	width: 1600;
+}
+.color1{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+td{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+th{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+ 
+	.pobeg{
+		
+	}
